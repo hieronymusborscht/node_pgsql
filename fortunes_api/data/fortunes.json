@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "message": "something is round the corner",
+    "lucky_number": 4,
+    "spirit_animal": "Squirrel"
+  },
+  {
+    "id": "2",
+    "message": "bring extra batteries",
+    "lucky_number": 5,
+    "spirit_animal": "Moose"
+  },
+  {
+    "id": "3",
+    "message": "update your tetanus shot",
+    "lucky_number": 6,
+    "spirit_animal": "Muskrat"
+  },
+  {
+    "id": 4,
+    "message": "Something might or miht now happen",
+    "lucky_number": 123,
+    "spirit_animal": "Beaver"
+  },
+  {
+    "id": 7,
+    "message": "success awaits you",
+    "lucky_number": 8,
+    "spirit_animal": "Dungeoness Crab"
+  },
+  {
+    "id": 8,
+    "message": "dont forget to floss",
+    "lucky_number": 11,
+    "spirit_animal": "a snek"
+  },
+  {
+    "id": 9,
+    "message": "disregard fast company, develop skills and accumulate currency ",
+    "lucky_number": 24,
+    "spirit_animal": "Tiger"
+  },
+  {
+    "id": 10,
+    "message": "Eat your vegetables",
+    "lucky_number": 99,
+    "spirit_animal": "Platypus"
+  }
+]
